@@ -1,5 +1,5 @@
 # Estudos da Documentação 
-![](assets/image/logo.png)
+![https://elixir-lang.org/](assets/image/logo.png)
 
 ### [1. Basic types](01_BasicType/) 
 * Basic arithmetic
@@ -31,3 +31,27 @@
 ### [19. Typespecs and behaviours]()
 ### [20. Debugging]()
 ### [21. Erlang libraries]()
+### [22. PROJETOS PRÁTICOS]()
+Criação de um projeto em Elixir
+```
+mix new "nomedoprojeto"
+```
+Compilação do projeto
+```
+mix compile
+```
+Execução dos Textes
+```
+mix text
+```
+Compilar e rodar o projeto dentro do iex()>
+
+No diretório do projeto Rodar o comando:
+```
+iex -S mix
+```
+#### Projeto 01 (FizzBuzz)
+Situação Problema:
+* Múltiplos de 3 trocar pela String Fizz
+* Múltiplos de 5 trocar pela String Buzz
+* Múltiplos de 3 e 5 trocar pela string FizzBuzz
