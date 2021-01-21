@@ -24,4 +24,10 @@ defmodule PhoenixApiWeb.Router do
       live_dashboard "/dashboard", metrics: PhoenixApiWeb.Telemetry
     end
   end
+
+  scope "/", PhoenixApiWeb do
+    pipe_through :api
+
+    get "/", WelcomeController, :index
+  end
 end
