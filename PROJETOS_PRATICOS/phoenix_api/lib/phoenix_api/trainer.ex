@@ -15,5 +15,6 @@ defmodule PhoenixApi.Trainer do
     %__MODULE__{}
     |> cast(params, @required_params)
     |> validate_required(@required_params)
+    |> validate_number(:password_hash, min: 6)
   end
 end
