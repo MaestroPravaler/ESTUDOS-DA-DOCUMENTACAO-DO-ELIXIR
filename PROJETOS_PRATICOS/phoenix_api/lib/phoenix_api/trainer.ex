@@ -12,11 +12,18 @@ defmodule PhoenixApi.Trainer do
   end
 
   @required_params [:name, :password]
+
+  def build(params) do
+    params
+    |> changeset()
+    |> apply_action!(:insert)
+  end
+
   def changeset(params) do
     %__MODULE__{}
     |> cast(params, @required_params)
     |> validate_required(@required_params)
-    |> validate_number(:password, min: 6)
+    |> validate_number(:password, greater_than_or_equal_to: 6)
     |> put_pass_hash()
   end
   # Criptografar a Senha com o Argon2
