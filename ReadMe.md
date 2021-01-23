@@ -16,9 +16,9 @@
 * [Basic Operators](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/02_Basic_Operators/Basic_Operators.exs)
 
 ### [3. Pattern matching](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/03_Pattern_Matching)
-* [The match operator]()
-* [Pattern matching]()
-* [The pin operator]()
+* [The match operator](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/03_Pattern_Matching/01_The_Match_Operator.exs)
+* [Pattern matching](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/03_Pattern_Matching)
+* [The pin operator](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/03_Pattern_Matching)
 
 ### [4. case, cond, and if](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if)
 * [case]()
