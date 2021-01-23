@@ -1,17 +1,18 @@
 # Estudos da Documentação 
 ![https://elixir-lang.org/](assets/image/logo.png)
 
-### [1. Basic types](01_BasicType/) 
-* Basic arithmetic
-* Identifying functions and documentation
-* Booleans
-* Atoms
-* Strings
-* Anonymous functions
-* (Linked) Lists
-* Tuples
-* Lists or tuples?
-### [2. Basic operators](02_Basic_Operators)
+### [1. Basic types](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/01_Basic_Type) 
+* [Simple - Conceitos iniciais](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/00_simple.exs)
+* [Basic arithmetic](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/01_Basic_arithmetic.exs)
+* [Identifying functions and documentation](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/02_Identifying_functions_and_documentation.exs)
+* [Booleans](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/03_boleanos.exs)
+* [Atoms](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/04_Atoms.exs)
+* [Strings](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/05_Strings.exs)
+* [Anonymous functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/06_Anonymous_Functions.exs)
+* [(Linked) Lists](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/07_Lists.exs)
+* [Tuples](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/blob/master/01_Basic_Type/07_Lists.exs)
+### [2. Basic operators](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/02_Basic_Operators)
+* [Basic Operators]()
 ### [3. Pattern matching]()
 ### [4. case, cond, and if]()
 ### [5. Binaries, strings, and charlists]()
