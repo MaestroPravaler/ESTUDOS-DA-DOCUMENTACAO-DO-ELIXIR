@@ -39,7 +39,7 @@
 * [Nested data structures](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps/03_Nested_Data_Strutures.exs)
 
 ### [7. Modules and Functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions)
-* [Compilation](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
+* [Compilation](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/01_Compilation.exs)
 * [Scripted mode](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
 * [Named functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
 * [Function capturing](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
