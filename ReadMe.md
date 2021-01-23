@@ -35,8 +35,8 @@
 
 ### [6. Keyword lists and maps](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps)
 * [Keyword lists](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps/01_Keyword_Lists.exs)
-* [Maps](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps)
-* [Nested data structures](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps)
+* [Maps](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps/02_Maps.exs)
+* [Nested data structures](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps/)
 
 ### [7. Modules and Functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions)
 * [Compilation]()
