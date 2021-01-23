@@ -21,10 +21,10 @@
 * [The pin operator](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/03_Pattern_Matching/03_The_Pin_Operator.exs)
 
 ### [4. case, cond, and if](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if)
-* [case]()
-* [cond]()
-* [if and unless]()
-* [do/end blocks]()
+* [case](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if/01_case.exs)
+* [cond](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if/02_cond.exs)
+* [if and unless](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if/03_if_and_unless.exs)
+* [do/end blocks](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if/04_do_end_blocks.exs)
 
 ### [5. Binaries, strings, and charlists](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists)
 * [Unicode and Code Points]()
