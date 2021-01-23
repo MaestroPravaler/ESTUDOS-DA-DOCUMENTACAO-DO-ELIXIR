@@ -27,7 +27,7 @@
 * [do/end blocks](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/04_case_cond_if/04_do_end_blocks.exs)
 
 ### [5. Binaries, strings, and charlists](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists)
-* [Unicode and Code Points]()
+* [Unicode and Code Points](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists/01_Unicode_and_Code_Points.exs)
 * [UTF-8 and Encodings]()
 * [Bitstrings]()
 * [Binaries]()
