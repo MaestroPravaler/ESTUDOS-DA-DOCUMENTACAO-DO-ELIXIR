@@ -28,10 +28,10 @@
 
 ### [5. Binaries, strings, and charlists](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists)
 * [Unicode and Code Points](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists/01_Unicode_and_Code_Points.exs)
-* [UTF-8 and Encodings]()
-* [Bitstrings]()
-* [Binaries]()
-* [Charlists]()
+* [UTF-8 and Encodings](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists/02_UTF-8_and_Encodings.exs)
+* [Bitstrings](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists/03_Bitstrings.exs)
+* [Binaries](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists/04_Binaries.exs)
+* [Charlists](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/05_Binaries_Strings_Charlists/05_Charlists.exs)
 
 ### [6. Keyword lists and maps](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/06_Keyword_Lists_Maps)
 * [Keyword lists]()
