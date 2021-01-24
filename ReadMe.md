@@ -41,7 +41,7 @@
 ### [7. Modules and Functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions)
 * [Compilation](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/01_Compilation.exs)
 * [Scripted mode](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/02_Scripted_Mode.exs)
-* [Named functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
+* [Named functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/03_Named_Functions.exs)
 * [Function capturing](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
 * [Default arguments](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
 
@@ -172,6 +172,9 @@ Adicionado duas resoluções realizadas pelo time da PRAVALER. [Extraidas deste 
 ## [Resolução de Desafios - HackerHank](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank)
 * [01_Solve_Me_First_FP.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/01_Solve_Me_First_FP.exs)
 * [02_Hello_World.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/02_Hello_World.exs)
-* [03_Hello_World_N_Times.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/03_Hello_World_N_Times.exs)
+* [03_Hello_World_N_Times.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/03_Hello_World_N_Times.exs) 
+* [04_List_Replication.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/04_List_Replication.exs)
+
+
 
 Os arquivos PDF's com os problemas se encontram no diretório [DESAFIOS](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/DESAFIOS/)
