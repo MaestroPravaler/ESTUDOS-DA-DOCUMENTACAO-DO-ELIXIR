@@ -163,10 +163,13 @@ Situação Problema:
 * Múltiplos de 5 trocar pela String Buzz
 * Múltiplos de 3 e 5 trocar pela string FizzBuzz
 
-Adicionado duas versões do time da PRAVALER diaponível neste [link](https://www.youtube.com/watch?v=mtTUIP3PhKw&t=686s)
+Adicionado duas resoluções realizadas pelo time da PRAVALER. [Extraidas deste vídeo.](https://www.youtube.com/watch?v=mtTUIP3PhKw&t=686s)
 
 ## [PROJETO 02 - Joguinho de Teste](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/PROJETOS_PRATICOS/game_teste)
 
 ## [PROJETO 03 - Construção de uma API com Phoenix](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/PROJETOS_PRATICOS/phoenix_api)
 
-# [Resolução de Desafios - HackerHank](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank)
+## [Resolução de Desafios - HackerHank](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank)
+* [01_Solve_Me_First_FP.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/01_Solve_Me_First_FP.exs)
+
+Os arquivos PDF's com os problemas se encontram no diretório [DESAFIOS](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/DESAFIOS/)
