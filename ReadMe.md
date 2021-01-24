@@ -42,7 +42,7 @@
 * [Compilation](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/01_Compilation.exs)
 * [Scripted mode](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/02_Scripted_Mode.exs)
 * [Named functions](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/03_Named_Functions.exs)
-* [Function capturing](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
+* [Function capturing](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/04_Function_Capturing.exs)
 * [Default arguments](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/07_Modules_Functions/)
 
 ### [8. Recursion](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/)
