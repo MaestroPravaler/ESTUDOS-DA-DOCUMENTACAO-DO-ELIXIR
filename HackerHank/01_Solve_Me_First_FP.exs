@@ -1,6 +1,9 @@
-# Receber dois inteiros em linhas separadas
-a = String.trim(IO.gets(""))
-b = String.trim(IO.gets(""))
+defmodule Solution do
+  def read(:int) do
+    IO.gets("")
+    |> String.trim()
+    |> String.to_integer()
+  end
+end
 
-# Converter em inteiros e somar os valores recebidos
-IO.puts(String.to_integer(a) + String.to_integer(b))
+IO.puts(Solution.read(:int) + Solution.read(:int))
