@@ -163,6 +163,8 @@ Situação Problema:
 * Múltiplos de 5 trocar pela String Buzz
 * Múltiplos de 3 e 5 trocar pela string FizzBuzz
 
+Adicionado duas versões do time da PRAVALER diaponível neste [link](https://www.youtube.com/watch?v=mtTUIP3PhKw&t=686s)
+
 ## [PROJETO 02 - Joguinho de Teste](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/PROJETOS_PRATICOS/game_teste)
 
 ## [PROJETO 03 - Construção de uma API com Phoenix](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/PROJETOS_PRATICOS/phoenix_api)
