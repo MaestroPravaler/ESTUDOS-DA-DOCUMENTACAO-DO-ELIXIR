@@ -50,7 +50,7 @@
 * [Reduce and map algorithms](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/08_Recursion/02_Reduce_and_map_algorithms.exs)
 
 ### [9. Enumerables and streams](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
-* [Enumerables](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
+* [Enumerables](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/09_Enumerables.exs)
 * [Eager vs Lazy](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
 * [The pipe operator](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
 * [Streams](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
