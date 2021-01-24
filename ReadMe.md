@@ -172,5 +172,6 @@ Adicionado duas resoluções realizadas pelo time da PRAVALER. [Extraidas deste 
 ## [Resolução de Desafios - HackerHank](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank)
 * [01_Solve_Me_First_FP.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/01_Solve_Me_First_FP.exs)
 * [02_Hello_World.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/02_Hello_World.exs)
+* [03_Hello_World_N_Times.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/03_Hello_World_N_Times.exs)
 
 Os arquivos PDF's com os problemas se encontram no diretório [DESAFIOS](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/DESAFIOS/)
