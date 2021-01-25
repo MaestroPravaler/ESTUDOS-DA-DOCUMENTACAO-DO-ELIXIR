@@ -7,3 +7,13 @@ defmodule Solution do
     end)
 
 end
+
+# =======================================================================
+
+defmodule Solution do
+  [s | tail] = String.split(IO.read(:stdio, :all), [" ", "\n"])
+  {x, _} = Integer.parse(s)
+  Enum.filter(tail, &(elem(Integer.parse(&1), 0) < x)) |> Enum.map(&(IO.puts(&1)))
+end
+
+# =======================================================================

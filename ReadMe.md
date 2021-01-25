@@ -176,5 +176,6 @@ Adicionado duas resoluções realizadas pelo time da PRAVALER. [Extraidas deste 
 * [04_List_Replication.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/04_List_Replication.exs)
 * [05_Update_List.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/05_Update_List.exs)
 * [06_Filter_Array.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/06_Filter_Array.exs)
+* [07_Filter_Positions_in_a_List.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/07_Filter_Positions_in_a_List.exs)
 
 Os arquivos PDF's com os problemas se encontram no diretório [DESAFIOS](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/DESAFIOS/)
