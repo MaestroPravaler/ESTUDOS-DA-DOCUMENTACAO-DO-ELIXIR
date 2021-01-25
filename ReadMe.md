@@ -50,10 +50,10 @@
 * [Reduce and map algorithms](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/08_Recursion/02_Reduce_and_map_algorithms.exs)
 
 ### [9. Enumerables and streams](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
-* [Enumerables](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/09_Enumerables.exs)
-* [Eager vs Lazy](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
-* [The pipe operator](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
-* [Streams](ttps://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
+* [Enumerables](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/09_Enumerables.exs)
+* [Eager vs Lazy](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
+* [The pipe operator](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
+* [Streams](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
 
 ### [10. Processes](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/10_Processes/)
 * [spawn]()
@@ -174,7 +174,7 @@ Adicionado duas resoluções realizadas pelo time da PRAVALER. [Extraidas deste 
 * [02_Hello_World.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/02_Hello_World.exs)
 * [03_Hello_World_N_Times.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/03_Hello_World_N_Times.exs) 
 * [04_List_Replication.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/04_List_Replication.exs)
-
-
+* [05_Update_List.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/05_Update_List.exs)
+* [06_Filter_Array.exs](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/06_Filter_Array.exs)
 
 Os arquivos PDF's com os problemas se encontram no diretório [DESAFIOS](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/HackerHank/DESAFIOS/)
