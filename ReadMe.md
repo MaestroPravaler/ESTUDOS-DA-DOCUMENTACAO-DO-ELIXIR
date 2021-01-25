@@ -52,7 +52,7 @@
 ### [9. Enumerables and streams](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
 * [Enumerables](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/01_Enumerables.exs)
 * [Eager vs Lazy](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/02_Eager_vs_Lazy.exs)
-* [The pipe operator](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
+* [The pipe operator](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/03_The_Pipe_Operator.exs)
 * [Streams](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/09_Enumerables_Streams/)
 
 ### [10. Processes](https://github.com/Robson-Maestro/ESTUDOS-DA-DOCUMENTACAO-DO-ELIXIR/tree/master/10_Processes/)
